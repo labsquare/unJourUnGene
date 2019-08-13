@@ -1,15 +1,15 @@
-#CFTR 
+# CFTR 
 salut
 sacha
 
 boby
-#GJB2
+# GJB2
 boby
 yves
 
 raymon
 
-#ADGRL3/ LPHN3
+# ADGRL3/ LPHN3
 Code pour une protéine appelée la latrophiline 3. Elle fait partie de la très grande famille des récepteurs couplés à la protéine G. Il existe 3 types de récepteurs : latrophiline 1, 2 et 3.
 Son rôle physiologique exact n’est pas encore connu. La latrophiline 3 est exprimée fortement au niveau cérébral et jouerait un rôle dans la l’adhésion et la signalisation cellulaire,et permettrait la stabilisation des synapses. Des variants d’ADGRL3 seraient impliqués dans des cas d’ADHD ainsi que de comportements addictifs.
 Cette famille de récepteurs  a pu être découverte grâce aux araignées : en effet, ADGRL1 et ADGRL2 sont la cibles de l’alpha latrotoxine, la neurotoxine qu’on retrouve chez les araignées du genre Lactrodectus (les veuves noires)
@@ -19,7 +19,7 @@ Pour en savoir plus :
 https://www.degruyter.com/view/j/bmc.2014.5.issue-6/bmc-2014-0032/bmc-2014-0032.xml
 https://www.sciencedirect.com/science/article/pii/S0006322316325768
 
-#HTT/IT15
+# HTT/IT15
 HTT code pour l’huntingtine, une protéine ubiquitaire dont le rôle exact n’est pas encore entièrement élucidé. L’huntingtine interagit avec une centaine de protéines différentes et est impliquée dans la signalisation cellulaire, la régulation de la transcription, la neurogénèse... Son action est particulièrement importante au niveau cérébral. En effet, l’huntingtine est impliquée dans la maladie de Huntington. Cette pathologie, à transmission autosomique dominante et à pénétrance complète est provoquée par une mutation dynamique au niveau de l’exon 1d’HTT, entrainant l’augmentation du nombre de codons. Ceci se traduit au niveau protéique par une augmentation du nombre de glutamines au niveau N-terminal. 
 Si la pathogénicité du variant Htt a d’abord été attribué à la simple précipitation de protéine mutée au niveau neuronale, les recherches actuelles montrent une grande complexité du mécanisme physiopathologique : accumulation de protéine tronquée, d’ARNm, séquestration de facteurs de transcription, excitotoxicité, neurogénèse défectueuse, altération de l’homéostasie protéique…
 Au niveau clinique, la maladie d’Huntington est caractérisée par une triade de signes cliniques : troubles cognitifs (évoluant vers la démence), troubles psychiatriques (dépression, apathie) et troubles moteurs (d’abord modérés, évoluant vers une chorée avec akinésie sévère). L’une des particularités est l’apparition tardive des signes cliniques (40ans), les signes psychiatriques pouvant précédés les signes moteurs d’une dizaine d’année. Il existe une corrélation directe entre le nombre de répétition CAG et l’âge d’apparition des premiers signes cliniques.
@@ -30,7 +30,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/22692795
 https://www.nature.com/articles/nrdp20155
 
 
-#BBS9 : 
+# BBS9 : 
 PTH-RESPONSIVE B1 GENE; B1; PTHB1 : code pour la protéine BBS9, est une des 7 protéines BBS. Les protéines BBS participent à la formation du BBSome, un complexe protéique participant à la ciliogénèse. Il existe deux grands types de cils cellulaires : les cils primaires et les cils vibratiles. Les cils primaires sont présents sur la plupart des cellules de l’organisme, et son souvent uniques et immobiles. Ils possèdent  une fonction sensorielle. Les cils vibratils quant à eux sont présents sur un nombre restreint de types cellulaires, sont souvent nombreux et ont une fonction dans la motilité cellulaire. Le BBSome est particulièrement impliqué dans les cils primaires.
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4906432/ (mettre le schéma ??)
